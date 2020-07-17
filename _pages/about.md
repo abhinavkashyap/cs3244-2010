@@ -10,6 +10,14 @@ redirect_from:
 
 #### NUS SoC, 2020/2021, Semester I, Time and Venue: fully online via Zoom and YouTube. Officially from LumiNUS: Mondays, 16:00-18:00 and Thursdays, 11:00-12:00.
 
+<P>&nbsp;
+</P>
+<P>&nbsp;
+</P>
+<P>&nbsp;
+</P>
+    
+
 This module introduces basic concepts and algorithms in machine learning and neural networks. The main reason for studying computational learning is to make better use of powerful computers to learn knowledge (or regularities) from the raw data. The ultimate objective is to build self-learning systems to relieve human from some of already-too-many programming tasks. At the end of the course, students are expected to be familiar with the theories and paradigms of computational learning, and capable of implementing basic learning systems.
 
 We will be using the [Coursemology](http://coursemology.org/courses/1870) Learning Management System for the administration of this course (the Coursemology course will be published in due time).
@@ -20,10 +28,10 @@ N.B. We will be teaching and using the Python programming language throughout th
 
 This class is a _flipped_ class, a variant of a blended class. You’ll watch the first part of the video lecture before coming to tutorial, and then watch a subsequent video recorded lecture post-tutorial, to further reinforce the tutorial.
 
-**Important**: Lecture slots are for e-learning, and for occasional assessments (in Weeks 7 and 13).  
-Do ensure that you have the lecture times free in your schedule to be available for scheduled exams. There will no be alternate exam arrangements.
+**Important**: Lecture slots are for e-learning, and for occasional assessments (in Weeks 07 and 13).  
+Do ensure that you have the lecture times free in your schedule to be available for scheduled exams.  There will no be alternate exam arrangements.
 
-Likely we will have a watch party during class timings where the instructor will be present and discuss with you directly and ask you participation questions via Zoom.
+For most of the Thursdays sessions, we will have a synchrnous help session where Min will field questions from students on questions, concerns and doubts you have on the lecture materials or other components of the course.
 
 ### Tutorial Sessions
 
